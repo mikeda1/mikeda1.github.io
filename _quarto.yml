@@ -1,8 +1,8 @@
 project:
   type: website
   output-dir: docs
-  # resources:
-  #   - googleb8ecb1c6982be639.html
+  resources:
+    - google8fa7742473ffd909.html
 
 website:
   title: "Masato Ikeda"
