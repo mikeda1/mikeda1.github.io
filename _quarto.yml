@@ -1,0 +1,40 @@
+project:
+  type: website
+  # output-dir: docs
+  # resources:
+  #   - googleb8ecb1c6982be639.html
+
+website:
+  title: "Masato Ikeda"
+  site-url: https://mikeda1.github.io/
+  navbar:
+    right:
+      - href: index.qmd
+        text: Home
+      - research.qmd
+  page-footer: 
+    right: "Last updated: July 30, 2025" 
+    left:
+      - icon: github
+        href: https://github.com/mikeda1/mikeda1.github.io
+  open-graph: 
+    title: "Masato Ikeda | PhD Candidate in Health & Labor Econ"
+    description: "PhD candidate in health economics and labor economics at the University of Arizona."
+    # image: "images/pic_horizontal.png"
+
+format:
+  html:
+    theme:
+      - flatly
+      - styles.scss
+    fontsize: 1.1em
+    linestretch: 1.7
+    css:
+      - "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css"
+    toc: true
+    description-meta: "PhD candidate in health economics and labor economics at the University of Arizona."
+    
+editor: visual
+
+# execute:
+#   freeze: auto

@@ -1,0 +1,29 @@
+---
+title: "Masato Ikeda"
+format: html
+editor: visual
+---
+
+::: grid
+
+::: g-col-8
+Welcome!
+
+I am a Ph.D. candidate in Economics at the University of Arizona.
+
+My research interests are in **health economics** and **labor economics**. My current work studies the effect of health insurance on birth outcomes, accounting for substitution between public and private health insurance.
+
+I received my M.A. in Economics and B.S. in Agriculture from the University of Tokyo.
+
+You can contact me at [mikeda\@arizona.edu](mailto:%20mikeda@arizona.edu).
+:::
+
+::: g-col-4
+![Photo](images/profile_pic.jpg){width="80%"}\
+
+Ph.D. Candidate\
+University of Arizona
+
+<i class="fa-solid fa-location-dot"></i> Tucson, AZ
+:::
+:::
