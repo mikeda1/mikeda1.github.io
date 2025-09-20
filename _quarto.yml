@@ -21,6 +21,7 @@ website:
     title: "Masato Ikeda | PhD Candidate in Health & Labor Econ"
     description: "PhD candidate in health economics and labor economics at the University of Arizona."
     # image: "images/pic_horizontal.png"
+  google-analytics: "G-8L7L4RBJ7C"
 
 format:
   html:
